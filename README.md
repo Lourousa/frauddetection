@@ -2,7 +2,7 @@
 
 
 Disclaimer:<br>
-I created this repository to experiment with Apache Fluss (Incubating). Please note that the cluster sizing and security configuration are intended for exploration only and are not production-ready.<br><br>
+I created this repository to experiment with Apache Fluss (Incubating). Please note that the cluster sizing, security configuration, fraud detection logic are intended for exploration only and are not production-ready.<br><br>
 
 
 Fluss/Flik required JARs:<br>
